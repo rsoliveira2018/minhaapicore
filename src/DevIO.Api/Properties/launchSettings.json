@@ -12,7 +12,7 @@
     "IIS DEV": {
       "commandName": "IISExpress",
       "launchBrowser": true,
-      "launchUrl": "api/values",
+      "launchUrl": "api/fornecedores",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
@@ -20,7 +20,7 @@
     "IIS STG": {
       "commandName": "IISExpress",
       "launchBrowser": true,
-      "launchUrl": "api/values",
+      "launchUrl": "api/fornecedores",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Staging"
       }
@@ -28,7 +28,7 @@
     "IIS PRD": {
       "commandName": "IISExpress",
       "launchBrowser": true,
-      "launchUrl": "api/values",
+      "launchUrl": "api/fornecedores",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Production"
       }
